@@ -27,11 +27,13 @@
 
 <h3 align="left">Support:</h3>
 <a href="https://saweria.co/masaip"> <img align="left" src="https://mir-s3-cdn-cf.behance.net/projects/404/13a514105722943.Y3JvcCw4MDgsNjMyLDAsMA.png" height="70" width="150" alt="masaip" /></a>
+<br>
 <a href="https://www.buymeacoffee.com/aip1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aip1" /></a>
 <br>
 <br>
 <div class="container">
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=timred01&show_icons=true&locale=en&layout=compact" alt="timred01"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=timred01&show_icons=true&locale=en" alt="timred01" />
+<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=timred01&show_icons=true&locale=en&layout=compact" alt="timred01" /></a>
+<br>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api?username=timred01&show_icons=true&locale=en" alt="timred01" /></a>
 </div>
