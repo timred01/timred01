@@ -31,9 +31,10 @@
 <a href="https://www.buymeacoffee.com/aip1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aip1" /></a>
 <br>
 <br>
-<div class="container">
-<br>
-<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=timred01&show_icons=true&locale=en&layout=compact" alt="timred01" /></a>
-<br>
-<a><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=timred01&show_icons=true&locale=en" alt="timred01" /></a>
-</div>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=timred01)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timred01)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=timred01&show_icons=true)  
