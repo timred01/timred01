@@ -35,5 +35,5 @@
 <br>
 <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=timred01&show_icons=true&locale=en&layout=compact" alt="timred01" /></a>
 <br>
-<a><img align="left" src="https://github-readme-stats.vercel.app/api?username=timred01&show_icons=true&locale=en" alt="timred01" /></a>
+<a><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=timred01&show_icons=true&locale=en" alt="timred01" /></a>
 </div>
