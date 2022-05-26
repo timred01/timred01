@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **RealWorld😋**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Golang (Go) Language**
 
 - 👨‍💻 All of my projects are available at [https://aliff.vercel.app/](https://aliff.vercel.app/)
 
