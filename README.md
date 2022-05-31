@@ -37,11 +37,20 @@
 
 ## Languages and Tools
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+<img src="https://media3.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif" width="100">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+<img src="https://onepatch.com/wp-content/uploads/2020/03/PHP_CIRCLES_EW.gif" width="100"> 
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+<img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
+<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+<img src="https://media0.giphy.com/media/fxpZKChLsC4wYtoFqg/source.gif" width="100">
+<img src="https://media0.giphy.com/media/YWaWOJ7v6RfVRiZTYf/giphy.gif" width="100">
 </p>
 
 <br/> 
-
+<h3 align="center">Last My Music</h3>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3ludeg4fwwwyg4zgoo0qllof4&cover_image=true&theme=novatorem&bar_color=7c30d9&bar_color_cover=false" /></div>  
 
 <br/> 
@@ -50,14 +59,13 @@
 
 <br/>
 
-<h3 align="left">STATS ME</h3>
+## STATS ME
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=timred01&theme=tokyonight)](https://github.com/timred01/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timred01&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=timred01&show_icons=true&theme=midnight-purple)
-
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=timred01&theme=tokyonight" align="center" /></div>
+<p></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timred01&layout=compact&theme=midnight-purple" align="center" /></div>
+<p></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=timred01&show_icons=true&count_private=true&theme=midnight-purple" align="center" /></div>
 
 <br/>
 
