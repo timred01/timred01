@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <img align="center" src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif" width="1650" height="250" alt="banner"/>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=4B27F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Alif+F+Hakim)](https://git.io/typing-svg)
@@ -40,8 +42,7 @@
 <img src="https://media3.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif" width="100">
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-<img src="https://onepatch.com/wp-content/uploads/2020/03/PHP_CIRCLES_EW.gif" width="100"> 
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" style="max-width: 100%;>
 <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
 <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
@@ -50,13 +51,6 @@
 </p>
 
 <br/> 
-<h3 align="center">Last My Music</h3>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3ludeg4fwwwyg4zgoo0qllof4&cover_image=true&theme=novatorem&bar_color=7c30d9&bar_color_cover=false" /></div>  
-
-<br/> 
-
-
-
 <br/>
 
 ## STATS ME
@@ -74,8 +68,7 @@
 <div align="center">
   
 [<img src='https://mir-s3-cdn-cf.behance.net/projects/404/13a514105722943.Y3JvcCw4MDgsNjMyLDAsMA.png' alt='coffee' height='70'>](https://saweria.co/masaip) 
-[<img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='coffee' height='50'>](https://www.buymeacoffee.com/aip1)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+[<img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='coffee' height='50'>](https://www.buymeacoffee.com/aip1)
   
 </div>
 
