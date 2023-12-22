@@ -1,11 +1,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<img align="center" src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif" width="1650" height="250" alt="banner"/>
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=4B27F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Alif+F+Hakim)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=4B27F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+ALIF+F+HAKIM)](https://git.io/typing-svg)
 
 <h5 align="center">A passionate Web Development & Video Editing from Indonesia</h5>
 <br>
+
+<div class='row' align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" style="max-width: 100%;">
+</div>
+
 <br>
 
 - 🔭 I’m currently working on **RealWorld😋**
@@ -65,7 +70,7 @@
 
 <h2 align="center">Support Me</h2>
 
-<div align="center">
+<div align="center" class="row">
   
 [<img src='https://mir-s3-cdn-cf.behance.net/projects/404/13a514105722943.Y3JvcCw4MDgsNjMyLDAsMA.png' alt='coffee' height='70'>](https://saweria.co/masaip) 
 [<img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='coffee' height='50'>](https://www.buymeacoffee.com/aip1)
